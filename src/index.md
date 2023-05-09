@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: 'The Android Bible'
+  name: 'The Android Manifesto'
   tagline: 'Our database of knowledge for Android development'
   image:
     src: /Android_Logo.svg
@@ -13,7 +13,7 @@ hero:
       link: /get-started
     - theme: alt
       text: View on GitHub
-      link: https://github.com/appwise-labs/Android-Bible
+      link: https://github.com/appwise-labs/Android-Manifesto
 features:
   - icon: 🛠️
     title: Tools

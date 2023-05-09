@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import { SearchPlugin } from "vitepress-plugin-search";
 
 export default defineConfig({
-  title: "The Android Bible",
+  title: "The Android Manifesto",
   vite: {
     plugins: [
       SearchPlugin(),
@@ -12,7 +12,7 @@ export default defineConfig({
   dir: 'src',
   cleanUrls: true,
   lastUpdated: true,
-  description: "The Android Bible is our database of knowledge and best practices for Android development.",
+  description: "The Android Manifesto is our database of knowledge and best practices for Android development.",
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -35,7 +35,7 @@ export default defineConfig({
           { text: 'Reusable Code', link: '/reusable-code'}
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/appwise-labs/Wisemen-Bible' }
+      { icon: 'github', link: 'https://github.com/appwise-labs/Wisemen-Manifesto' }
     ]
   }
 })

@@ -1,6 +1,6 @@
-# The Android Bible
+# The Android Manifesto
 
-This Android Bible is a collection of best practices, guidelines and tips for Android development. It is a living document that will be updated as we learn more about Android development.
+This Android Manifesto is a collection of best practices, guidelines and tips for Android development. It is a living document that will be updated as we learn more about Android development.
 
 ## How can I help?
 
