@@ -5,7 +5,7 @@ hero:
   name: 'The Android Bible'
   tagline: 'Our database of knowledge for Android development'
   image:
-    src: /Wisemen_Logo_Acid_Icon.svg
+    src: /Android_Logo.svg
     alt: Wisemen logo
   actions:
     - theme: brand
