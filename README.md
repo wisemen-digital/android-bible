@@ -13,6 +13,12 @@ This Android Bible is a collection of best practices, guidelines and tips for An
 
 ## Commands
 
+### Before you start
+
+```bash
+npm install
+```
+
 ### Running the project locally
 
 ```bash
