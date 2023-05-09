@@ -18,24 +18,31 @@ features:
   - icon: 🛠️
     title: Tools
     details: How to set up your environment, IDE, plugins and more.
+    link: /tools
   - icon: 📚
     title: Project structure
     details: Creating applications with a clean architecture that everyone can work on.
+    link: /project-structure
   - icon: 🧬
     title: Design patterns
     details: How to use design patterns to make your code more readable and maintainable.
+    link: /design-patterns
   - icon: 🫀
     title: Android Core
     details: Our own library for Android development.
+    link: /android-core
   - icon: 🧪
     title: Testing
     details: How to write tests that matter.
+    link: /testing
   - icon: <img src="/jetpack_compose_icon.png" alt="Apple logo">
     title: Jetpack Compose
     details: Let's get Composing.
+    link: /jetpack-compose
   - icon: 🔬
-    title: Research Topics
+    title: Research topics
     details: Topics that we are currently researching.
+    link: /research-topics
   - icon: 🤝🏻
     title: Teamwork
     details: How we work together and stimulate a culture of sharing knowledge.
