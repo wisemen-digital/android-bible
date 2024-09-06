@@ -16,11 +16,11 @@ This Android Manifesto is a collection of best practices, guidelines and tips fo
 ### Before you start
 
 ```bash
-npm install
+pnpm install
 ```
 
 ### Running the project locally
 
 ```bash
-npm run dev
+pnpm run dev
 ```
