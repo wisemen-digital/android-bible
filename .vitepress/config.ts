@@ -13,6 +13,7 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   description: "The Android Manifesto is our database of knowledge and best practices for Android development.",
+  base: '/android-bible/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
